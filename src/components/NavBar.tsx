@@ -69,7 +69,7 @@ export default function NavBar() {
       <NavbarBrand>
         <Link href='/'>
           <h1 className='text-4xl font-extrabold'>
-            Ely<span className='text-green-500'>Zen</span>
+            Ani<span className='text-green-500'>Star</span>
           </h1>
         </Link>
       </NavbarBrand>
