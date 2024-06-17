@@ -40,7 +40,7 @@ function Footer() {
                 </p>
               </Link>
               <p className='font-karla text-[0.7rem] lg:w-[520px] lg:text-[0.8rem]'>
-                This site does not store any files on our server, we are linked
+                AniStar is a sub streaming platoform of AniMist. This site does not store any files on our server, we are linked
                 to the media which is hosted on 3rd party services.
               </p>
             </div>
