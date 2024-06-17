@@ -12,11 +12,11 @@ const Terms = () => {
         <h1 className='mb-4 text-xl'>Last updated: 05/06/2024</h1>
         <p className='mb-4'>
           <strong className='font-bold'>Acceptance of Terms:</strong> By using
-          Elyzen, you agree to these Terms of Service and acknowledge that they
+          AniStar, you agree to these Terms of Service and acknowledge that they
           affect your legal rights and obligations.
         </p>
         <p className='mb-4'>
-          <strong className='font-bold'>Content:</strong> Elyzen does not host
+          <strong className='font-bold'>Content:</strong> AniStar does not host
           video content but embeds videos from various third-party sources. We
           are not responsible for the content, quality, or the policies of these
           external sites.
@@ -36,7 +36,7 @@ const Terms = () => {
         <p className='mb-4'>
           <strong className='font-bold'>Intellectual Property:</strong> The
           intellectual property rights of the embedded videos remain with their
-          respective owners. Elyzen respects these rights and does not claim
+          respective owners. AniStar respects these rights and does not claim
           ownership of this content.
         </p>
         <p className='mb-8'>
@@ -49,6 +49,9 @@ const Terms = () => {
           or suspend access to our service immediately, without prior notice,
           for any breach of these Terms.
         </p>
+        <p className='sponser text-lg'>
+          AniStar is a sub streaming platoform of AniMist, for any queries please visit AniMist( https://animist.pages.dev ) 
+        </p>  
       </div>
     </>
   );
